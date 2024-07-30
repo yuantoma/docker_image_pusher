@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #---
 jenkins/jenkins:2.426.2-lts
+jenkins/jenkins:2.426.1-lts
