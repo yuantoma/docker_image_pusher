@@ -11,4 +11,5 @@ joinsunsoft/docker.ui
 snowdreamtech/frps:0.59.0
 snowdreamtech/frpc:0.59.0
 containrrr/watchtower:latest
+pig4cloud/java:8-jre
 
