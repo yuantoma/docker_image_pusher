@@ -10,4 +10,5 @@ jenkins/jenkins:2.426.1-lts
 joinsunsoft/docker.ui
 snowdreamtech/frps:0.59.0
 snowdreamtech/frpc:0.59.0
+containrrr/watchtower:latest
 
