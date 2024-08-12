@@ -5,12 +5,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #---
-jenkins/jenkins:2.426.2-lts
-jenkins/jenkins:2.426.1-lts
-joinsunsoft/docker.ui
-snowdreamtech/frps:0.59.0
-snowdreamtech/frpc:0.59.0
-containrrr/watchtower:latest
-pig4cloud/java:8-jre
-library/nginx
+#jenkins/jenkins:2.426.2-lts
+#jenkins/jenkins:2.426.1-lts
+#joinsunsoft/docker.ui
+#snowdreamtech/frps:0.59.0
+#snowdreamtech/frpc:0.59.0
+#containrrr/watchtower:latest
+#pig4cloud/java:8-jre
+#library/nginx
 
