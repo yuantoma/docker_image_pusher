@@ -14,4 +14,5 @@
 #pig4cloud/java:8-jre
 #library/nginx
 #goharbor/prepare:v2.1.0
-threatbook/hfish-server:latest
+#threatbook/hfish-server:latest
+nginx:latest
