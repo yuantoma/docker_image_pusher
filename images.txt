@@ -15,4 +15,6 @@
 #library/nginx
 #goharbor/prepare:v2.1.0
 #threatbook/hfish-server:latest
-nginx:latest
+#nginx:latest
+mysql:8.0
+redis:7.2
