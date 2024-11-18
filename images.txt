@@ -18,4 +18,5 @@
 #nginx:latest
 #mysql:8.0
 #redis:7.2
-ubuntu:20.04
+#ubuntu:20.04
+gdy666/lucky
