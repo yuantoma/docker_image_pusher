@@ -26,4 +26,5 @@
 #portainer/portainer
 #btpanel/baota:lnmp
 #soulteary/webhook:extend-3.4.5
-oceanbase/ocp-ce:4.2.1
+#oceanbase/ocp-ce:4.2.1
+rustdesk/rustdesk-server
