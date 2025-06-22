@@ -29,4 +29,5 @@
 #oceanbase/ocp-ce:4.2.1
 #rustdesk/rustdesk-server
 #enmotech/opengauss:latest
-registry.forcecontrol.cn/fcdb:7.2
+#registry.forcecontrol.cn/fcdb:7.2
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:2.6.2
