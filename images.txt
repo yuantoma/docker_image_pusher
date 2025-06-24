@@ -30,4 +30,5 @@
 #rustdesk/rustdesk-server
 #enmotech/opengauss:latest
 #registry.forcecontrol.cn/fcdb:7.2
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:2.6.2
+#ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:2.6.2
+ghcr.io/idiap/coqui-tts-cpu
