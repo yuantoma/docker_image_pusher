@@ -33,4 +33,5 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:2.6.2
 #ghcr.io/idiap/coqui-tts-cpu
 #gitlab/gitlab-ce:latest
-redis:7.2.12
+#redis:7.2.12
+budtmo/docker-android:emulator_11.0
