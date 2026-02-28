@@ -36,4 +36,5 @@
 #redis:7.2.12
 #budtmo/docker-android:emulator_11.0
 #budtmo/docker-android:emulator_14.0
-justlikemaki/openclaw-docker-cn-im:latest
+#justlikemaki/openclaw-docker-cn-im:latest
+justlikemaki/aiclient-2-api:latest
